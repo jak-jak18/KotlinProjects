@@ -1,4 +1,4 @@
-//fun main(){
+//fun interface_ex.main.kt(){
 //    var max = a
 //    if (a < b) max = b
 //

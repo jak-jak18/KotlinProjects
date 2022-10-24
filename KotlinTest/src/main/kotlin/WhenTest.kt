@@ -1,5 +1,5 @@
 
-//fun main(){
+//fun interface_ex.main.kt(){
 //    val str ="prefix plant"
 //    hasPrefix(str)
 //}

@@ -1,5 +1,5 @@
 //
-//fun main(){
+//fun interface_ex.main.kt(){
 //    val data = mapOf(
 //        "key1" to 1,
 //        "key2" to 2,
